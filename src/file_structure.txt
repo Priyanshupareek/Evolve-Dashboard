@@ -1,0 +1,510 @@
+Folder PATH listing for volume Drive
+Volume serial number is 2EEA-3550
+D:.
+|   App.js
+|   file_structure.txt
+|   index.js
+|   petals.js
+|   routes.js
+|   
++---assets
+|   +---images
+|   |   |   avatar-simmmple.png
+|   |   |   avatar1.png
+|   |   |   avatar10.png
+|   |   |   avatar2.png
+|   |   |   avatar3.png
+|   |   |   avatar4.png
+|   |   |   avatar5.png
+|   |   |   avatar6.png
+|   |   |   avatar7.png
+|   |   |   avatar8.png
+|   |   |   avatar9.png
+|   |   |   background-card-reports.png
+|   |   |   BalanceCardBg.png
+|   |   |   billing-background-balance.png
+|   |   |   billing-background-card.png
+|   |   |   Bloom.png
+|   |   |   bruce-mars.jpg
+|   |   |   cardimgfree.png
+|   |   |   CodeLLama.jpeg
+|   |   |   green-blue-violet-gradient-8k-2560x1600.jpg
+|   |   |   ivana-square.jpg
+|   |   |   ivana-squares.jpg
+|   |   |   kal-visuals-square.jpg
+|   |   |   Llama2.png
+|   |   |   logo-ct.png
+|   |   |   marie.jpg
+|   |   |   meta-llama2.gif
+|   |   |   profile-1.png
+|   |   |   profile-2.png
+|   |   |   profile-3.png
+|   |   |   rm407-120.jpg
+|   |   |   signInImage.png
+|   |   |   signUpImage.png
+|   |   |   stability.webp
+|   |   |   stablebeluga.png
+|   |   |   team-1.jpg
+|   |   |   team-2.jpg
+|   |   |   team-3.jpg
+|   |   |   team-4.jpg
+|   |   |   team-5.jpg
+|   |   |   welcome-profile.png
+|   |   |   
+|   |   +---BGImages
+|   |   |       background1.jpg
+|   |   |       background2.png
+|   |   |       background3.jpg
+|   |   |       background4.jpg
+|   |   |       
+|   |   +---curved-images
+|   |   |       white-curved.jpeg
+|   |   |       
+|   |   +---logos
+|   |   |       falcon-180b.jpg
+|   |   |       llama.jpeg
+|   |   |       mastercard.png
+|   |   |       RokoLogo.png
+|   |   |       visa.png
+|   |   |       
+|   |   +---RokoGenImages
+|   |   |       clean_photo_realitic_white_on_white_Roko_Network_Cyberne_168a170e-475a-43c3-a2b7-77b8219cbf91.png
+|   |   |       clean_photo_realitic_white_on_white_Roko_Network_Cyberne_529db509-7e8f-43ce-9c1f-916fecbfdd12.png
+|   |   |       clean_photo_realitic_white_on_white_Roko_Network_Cyberne_7d35f1a3-f272-4909-b9dc-051e6b97a48e.png
+|   |   |       clean_photo_realitic_white_on_white_Roko_Network_Cyberne_cc341a8f-9ccd-4704-9d3e-07f0fc2444ef.png
+|   |   |       clean_photo_realitic_white_on_white_Roko_Network_Cyberne_d676aa7b-5933-491c-b985-e879c24015e2.png
+|   |   |       clean_photo_realitic_white_on_white_Roko_Network_Cyberne_eb210ffc-e8a1-4570-8cb5-e54317519b66.png
+|   |   |       clean_photo_realitic_white_on_white_Roko_Network_Cyberne_f0efdf01-9acb-4d16-af2b-cdcaf28dc4a4.png
+|   |   |       era_clean_photo_realitic_white_on_white_Cybernetic_Practioner_a_543d70bd-2022-40c6-949d-7bff21823b3f.png
+|   |   |       era_clean_photo_realitic_white_on_white_Cybernetic_Practioner_a_c58d83e3-9441-444d-abca-7e762c12ed78.png
+|   |   |       era_clean_photo_realitic_white_on_white_Cybernetic_Practioner_a_e4f08d19-44f2-4416-acf4-6fe6ac991bae.png
+|   |   |       era_clean_photo_realitic_white_on_white_Roko_Network_Cybernetic_48a020d1-ffc6-4149-ba28-8fa3e2a16c9a.png
+|   |   |       era_clean_photo_realitic_white_on_white_Roko_Network_Cybernetic_c3fa511c-f7de-4b9d-9177-97b5a6933b40.png
+|   |   |       
+|   |   +---shapes
+|   |   |       car-profile.svg
+|   |   |       graph-billing.svg
+|   |   |       green-lightning.svg
+|   |   |       waves-white.svg
+|   |   |       white-lightning.svg
+|   |   |       
+|   |   +---sidenav
+|   |   |       sidenav-card-background.png
+|   |   |       
+|   |   \---small-logos
+|   |           icon-sun-cloud.png
+|   |           logo-apple.svg
+|   |           logo-atlassian.svg
+|   |           logo-facebook.svg
+|   |           logo-google.svg
+|   |           logo-invision.svg
+|   |           logo-jira.svg
+|   |           logo-petals.svg
+|   |           logo-roko.svg
+|   |           logo-slack.svg
+|   |           logo-spotify.svg
+|   |           logo-webdev.svg
+|   |           logo-xd.svg
+|   |           
+|   \---theme
+|       |   index.js
+|       |   theme-rtl.js
+|       |   
+|       +---base
+|       |       borders.js
+|       |       boxShadows.js
+|       |       breakpoints.js
+|       |       colors.js
+|       |       globals copy.js
+|       |       globals.js
+|       |       typography.css
+|       |       typography.js
+|       |       
+|       +---components
+|       |   |   appBar.js
+|       |   |   avatar.js
+|       |   |   breadcrumbs.js
+|       |   |   buttonBase.js
+|       |   |   container.js
+|       |   |   divider.js
+|       |   |   icon.js
+|       |   |   iconButton.js
+|       |   |   linearProgress.js
+|       |   |   link.js
+|       |   |   popover.js
+|       |   |   sidenav.js
+|       |   |   slider.js
+|       |   |   svgIcon.js
+|       |   |   tooltip.js
+|       |   |   
+|       |   +---button
+|       |   |       contained.js
+|       |   |       index.js
+|       |   |       outlined.js
+|       |   |       root.js
+|       |   |       text.js
+|       |   |       
+|       |   +---card
+|       |   |       cardContent.js
+|       |   |       cardMedia.js
+|       |   |       index.js
+|       |   |       
+|       |   +---dialog
+|       |   |       dialogActions.js
+|       |   |       dialogContent.js
+|       |   |       dialogContentText.js
+|       |   |       dialogTitle.js
+|       |   |       index.js
+|       |   |       
+|       |   +---form
+|       |   |       autocomplete.js
+|       |   |       checkbox.js
+|       |   |       formControlLabel.js
+|       |   |       formLabel.js
+|       |   |       input.js
+|       |   |       inputBase.js
+|       |   |       radio.js
+|       |   |       select.js
+|       |   |       switchButton.js
+|       |   |       
+|       |   +---list
+|       |   |       index.js
+|       |   |       listItem.js
+|       |   |       listItemText.js
+|       |   |       
+|       |   +---menu
+|       |   |       index.js
+|       |   |       menuItem.js
+|       |   |       
+|       |   +---stepper
+|       |   |       index.js
+|       |   |       step.js
+|       |   |       stepConnector.js
+|       |   |       stepIcon.js
+|       |   |       stepLabel.js
+|       |   |       
+|       |   +---table
+|       |   |       tableCell.js
+|       |   |       tableContainer.js
+|       |   |       tableHead.js
+|       |   |       
+|       |   \---tabs
+|       |           index.js
+|       |           tab.js
+|       |           
+|       \---functions
+|               boxShadow.js
+|               gradientChartLine.js
+|               hexToRgb.js
+|               linearGradient.js
+|               pxToRem.js
+|               radialGradient.js
+|               rgba.js
+|               tripleLinearGradient.js
+|               
++---components
+|   +---VuiAlert
+|   |       index.js
+|   |       VuiAlertCloseIcon.js
+|   |       VuiAlertRoot.js
+|   |       
+|   +---VuiAvatar
+|   |       index.js
+|   |       VuiAvatarRoot.js
+|   |       
+|   +---VuiBadge
+|   |       index.js
+|   |       VuiBadgeRoot.js
+|   |       
+|   +---VuiBox
+|   |       index.js
+|   |       VuiBoxRoot.js
+|   |       
+|   +---VuiButton
+|   |       index.js
+|   |       VuiButtonRoot.js
+|   |       
+|   +---VuiInput
+|   |       index.js
+|   |       VuiInputIconBoxRoot.js
+|   |       VuiInputIconRoot.js
+|   |       VuiInputRoot.js
+|   |       VuiInputWithIconRoot.js
+|   |       
+|   +---VuiPagination
+|   |       index.js
+|   |       VuiPaginationItemRoot.js
+|   |       
+|   +---VuiProgress
+|   |       index.js
+|   |       VuiProgressRoot.js
+|   |       
+|   +---VuiSwitch
+|   |       index.js
+|   |       VuiSwitchRoot.js
+|   |       
+|   \---VuiTypography
+|           index.js
+|           VuiTypographyRoot.js
+|           
++---context
+|       index.js
+|       Web3Context.js
+|       
++---Evolve Dapp Frontend
+|   |   LICENSE.txt
+|   |   README.md
+|   |   
+|   +---.vscode
+|   |       settings.json
+|   |       
+|   +---dist
+|   |       app.html
+|   |       desktop-vnc.png
+|   |       File-browser-logo.svg
+|   |       index.html
+|   |       Jupyter_logo.svg
+|   |       script.js
+|   |       style.css
+|   |       Terminal_icon.svg
+|   |       Visual_Studio_Code_1.35_icon.svg
+|   |       
+|   \---src
+|           index.html
+|           script.js
+|           style.css
+|           
++---examples
+|   +---Breadcrumbs
+|   |       index.js
+|   |       
+|   +---Cards
+|   |   +---InfoCards
+|   |   |   \---ProfileInfoCard
+|   |   |           index.js
+|   |   |           
+|   |   +---MasterCard
+|   |   |       index.js
+|   |   |       
+|   |   +---ProjectCards
+|   |   |   \---DefaultProjectCard
+|   |   |           index.js
+|   |   |           
+|   |   \---StatisticsCards
+|   |       \---MiniStatisticsCard
+|   |               index.js
+|   |               
+|   +---Charts
+|   |   +---BarCharts
+|   |   |       BarChart.js
+|   |   |       
+|   |   \---LineCharts
+|   |           LineChart.js
+|   |           
+|   +---Configurator
+|   |       ConfiguratorRoot.js
+|   |       index.js
+|   |       
+|   +---Footer
+|   |       index.js
+|   |       
+|   +---GradientBorder
+|   |       GradientBorderRoot.js
+|   |       index.js
+|   |       
+|   +---Icons
+|   |       AdobeXD.js
+|   |       Atlassian.js
+|   |       Basket.js
+|   |       Cart.js
+|   |       Credit.js
+|   |       CreditCard.js
+|   |       Cube.js
+|   |       CustomerSupport.js
+|   |       Document.js
+|   |       DocumentV.js
+|   |       Invision.js
+|   |       Jira.js
+|   |       Mastercard.js
+|   |       Office.js
+|   |       PetalsLogo.js
+|   |       RokoLogo.js
+|   |       Settings.js
+|   |       Shop.js
+|   |       Slack.js
+|   |       SpaceShip.js
+|   |       Spotify.js
+|   |       Visa.js
+|   |       
+|   +---Items
+|   |   \---NotificationItem
+|   |           index.js
+|   |           styles.js
+|   |           
+|   +---LayoutContainers
+|   |   +---DashboardLayout
+|   |   |       index.js
+|   |   |       
+|   |   \---PageLayout
+|   |           index.js
+|   |           
+|   +---Lists
+|   |   \---ProfilesList
+|   |           index.js
+|   |           
+|   +---Navbars
+|   |   +---DashboardNavbar
+|   |   |       index.js
+|   |   |       styles.js
+|   |   |       
+|   |   \---DefaultNavbar
+|   |           DefaultNavbarLink.js
+|   |           DefaultNavbarMobile.js
+|   |           index.js
+|   |           
+|   +---Sidenav
+|   |   |   index.js
+|   |   |   SidenavCard.js
+|   |   |   SidenavCollapse.js
+|   |   |   SidenavRoot.js
+|   |   |   
+|   |   \---styles
+|   |           sidenav.js
+|   |           sidenavCard.js
+|   |           sidenavCollapse.js
+|   |           
+|   +---Tables
+|   |   \---Table
+|   |           index.js
+|   |           
+|   \---Timeline
+|       +---context
+|       |       index.js
+|       |       
+|       +---TimelineItem
+|       |       index.js
+|       |       styles.js
+|       |       
+|       \---TimelineList
+|               index.js
+|               
++---layouts
+|   +---authentication
+|   |   |   WalletConnectionScreen.js
+|   |   |   
+|   |   +---components
+|   |   |   +---BasicLayout
+|   |   |   |       index.js
+|   |   |   |       
+|   |   |   +---CoverLayout
+|   |   |   |       index.js
+|   |   |   |       
+|   |   |   +---Footer
+|   |   |   |       index.js
+|   |   |   |       
+|   |   |   +---IllustrationLayout
+|   |   |   |       index.js
+|   |   |   |       
+|   |   |   +---Separator
+|   |   |   |       index.js
+|   |   |   |       
+|   |   |   \---Socials
+|   |   |           index.js
+|   |   |           
+|   |   +---sign-in
+|   |   |       index.js
+|   |   |       
+|   |   \---sign-up
+|   |           index.js
+|   |           
+|   +---billing
+|   |   |   index.js
+|   |   |   
+|   |   \---components
+|   |       +---Bill
+|   |       |       index.js
+|   |       |       
+|   |       +---BillingInformation
+|   |       |       index.js
+|   |       |       
+|   |       +---CreditBalance
+|   |       |       index.js
+|   |       |       
+|   |       +---Invoice
+|   |       |       index.js
+|   |       |       
+|   |       +---Invoices
+|   |       |       index.js
+|   |       |       
+|   |       +---PaymentMethod
+|   |       |       index.js
+|   |       |       
+|   |       +---Transaction
+|   |       |       index.js
+|   |       |       
+|   |       \---Transactions
+|   |               index.js
+|   |               
+|   +---chat
+|   |       index.js
+|   |       
+|   +---dashboard
+|   |   |   index.js
+|   |   |   
+|   |   +---components
+|   |   |   +---ModelCard
+|   |   |   |       index.js
+|   |   |   |       
+|   |   |   +---OrderOverview
+|   |   |   |       index.js
+|   |   |   |       
+|   |   |   +---Projects
+|   |   |   |   |   index.js
+|   |   |   |   |   
+|   |   |   |   \---data
+|   |   |   |           index.js
+|   |   |   |           
+|   |   |   +---ReferralTracking
+|   |   |   |       index.js
+|   |   |   |       
+|   |   |   \---SatisfactionRate
+|   |   |           index.js
+|   |   |           
+|   |   \---data
+|   |           barChartData.js
+|   |           barChartOptions.js
+|   |           lineChartData.js
+|   |           lineChartOptions.js
+|   |           
+|   +---profile
+|   |   |   index.js
+|   |   |   
+|   |   +---components
+|   |   |   +---CarInformations
+|   |   |   |       index.js
+|   |   |   |       
+|   |   |   +---Header
+|   |   |   |       index.js
+|   |   |   |       
+|   |   |   +---PlatformSettings
+|   |   |   |       index.js
+|   |   |   |       
+|   |   |   \---Welcome
+|   |   |           index.js
+|   |   |           
+|   |   \---data
+|   |           lineChartData1.js
+|   |           lineChartData2.js
+|   |           lineChartOptions1.js
+|   |           lineChartOptions2.js
+|   |           
+|   \---tables
+|       |   index.js
+|       |   
+|       \---data
+|               authorsTableData.js
+|               projectsTableData.js
+|               
+\---variables
+        charts.js
+        
